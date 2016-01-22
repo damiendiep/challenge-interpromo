@@ -1,0 +1,157 @@
+body {
+	margin : 0;
+	font-family: 'Dosis', sans-serif;
+}
+
+/* --------   Header + navbar   ---------- */
+
+header {
+	width: 100%;
+	background-image : url(../images/payments-banner-graphic.png);
+	background-size: cover;
+	
+}
+
+#navbar{
+	display: inline-flex;
+}
+
+#blogo{
+	padding: 4px;
+	color : white;
+	font-size: 1.4em;
+	border: 1px solid white;
+	margin-left: 8px;
+}
+#bonsai {
+		margin-top: 12%;
+}
+header p{
+	color: white;
+	margin-left: 8px;
+}
+header a {
+	text-decoration: none;
+	color: white;
+}
+
+#login{
+	margin-left: 780%;
+}
+#titre1{
+		margin-top: 13%;
+		text-align: center;
+}
+
+#titre1 h1, p{
+	color: white;
+}
+
+#inpuut {
+	padding: 1%;
+	padding-left: 2%;
+	padding-right: 2%;
+		margin-bottom: 13%;
+		color: #9380c2;
+}
+
+/* --------   Header + navbar   ---------- */
+
+
+
+/* --------   Content1  ---------- */
+.contentmain {
+	display: inline-flex;
+	margin-top: 3%;
+
+}
+#content1 {
+	text-align: center;
+	margin-left: 23%;
+	color: black;
+}
+#content2{
+	border-left: 1px solid grey;
+		text-align: center;
+	margin-left: 23%;
+	padding-left: 20%;
+}
+#content3{
+	border-left: 1px solid grey;
+padding-left: 20%;
+	margin-left: 23%;
+		text-align: center;
+}
+.contentmain p, h2{
+	color: grey;
+}
+
+
+/* --------   Content1  ---------- */
+.secondcontent {
+		font-size: 0.7em;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin-top: 5%;
+	border-top: 1px solid grey;
+	background-color: #F6F9FB;
+	text-align: center;
+}
+.secondcontent h1, p {
+	color: grey;
+}
+
+#sc1 {
+	margin-top: 3%;
+	display: inline-flex;
+}
+
+#dollar {
+	color :#8080BE ;
+	font-size: 5em;
+	margin-top: 0;
+}
+
+#per {
+	color: black;
+	font-size: 2.3em;
+	margin-top: 3px;
+	margin-left: 15px;
+}
+
+.intercont {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	background-color: #4C535C;
+}
+
+.intercont p{
+	text-align: center;
+	font-size: 1.5em;
+		color: white;
+}
+
+.article {
+	width: 100%;
+	display: inline-flex;
+}
+.article img {
+	width: 765px;
+	border: 1px solid lightgrey;
+}
+#artp {
+	width: 130%;
+	text-align: justify;
+	padding-left: 20%;
+	margin-top: 20%;
+}
+
+.thirdcontent {
+		font-size: 0.7em;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	color: gray;
+	border-top: 1px solid grey;
+	background-color: #F6F9FB;
+	text-align: center;
+}
